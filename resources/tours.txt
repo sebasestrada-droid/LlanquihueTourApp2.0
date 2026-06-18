@@ -1,0 +1,7 @@
+Ruta Gastronomica;Puerto Varas;20;25000;Pedro Soto;Gastronomia;5;Bus;40
+Tour Cultural;Frutillar;15;18000;Maria Rojas;Cultura;3;Van;15
+Tour Lago Todos Los Santos;Petrohue;30;35000;Carlos Perez;Naturaleza;8;Bus;45
+Tour Costero;Puerto Montt;25;22000;Ana Diaz;Historia;4;Van;20
+Ruta Patrimonial;Llanquihue;18;19000;Luis Vega;Patrimonio;6;Minibus;25
+Tour Volcan Osorno;Osorno;35;40000;Daniel Ruiz;Montaña;10;Bus;50
+Tour Saltos del Petrohue;Petrohue;22;27000;Carla Soto;Naturaleza;7;Bus;40
